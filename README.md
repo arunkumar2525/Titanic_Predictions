@@ -1,1 +1,1 @@
-# Titanic_Predictions
+# Titanic_Survived_Project
